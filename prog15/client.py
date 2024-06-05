@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 20 09:49:54 2021
 
-@author: Anindita
+@author: Suraj
 """
 
 import socket	#for sockets
